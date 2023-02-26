@@ -9,4 +9,5 @@
 
 Based on https://github.com/vercel/next.js/tree/canary/examples/with-chakra-ui
 
-run `yarn install`
+`yarn install`
+`yarn dev`
